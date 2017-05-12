@@ -1,0 +1,10 @@
+.simontitle{
+    margin:0px 20px 0px;
+    font-size:30px;
+    text-align:center;
+}
+.simonrule{
+    margin:0px 300px;
+    text-align:left;
+    border: 5px double white;
+}

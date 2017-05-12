@@ -4,7 +4,7 @@ var app = express();
 app.use(bodyParser.urlencoded({ extended: true }));
 
 var SerialPort = require("serialport");
-var serialPort = new SerialPort('COM14', {
+var serialPort = new SerialPort('COM6', {
   baudrate: 9600
 });
 
